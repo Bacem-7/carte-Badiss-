@@ -1,0 +1,9 @@
+Remplace ces images par les tiennes EN GARDANT LE MÊME NOM (et en .jpg):
+  cover.jpg   -> grande image en haut de la carte (1200x400)
+  photo.jpg   -> ta photo de profil (carrée, 500x500)
+  work-1.jpg, work-2.jpg, work-3.jpg -> tes réalisations (800x1000, format portrait)
+
+Pour ajouter plus de photos: mets-les dans ce dossier et ajoute leur nom
+dans la ligne "gallery" de index.html.
+Si un fichier est supprimé, la carte l'ignore automatiquement (pas d'erreur).
+Conseil: garde chaque image sous 300 Ko pour que la carte s'ouvre vite.

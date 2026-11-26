@@ -1,0 +1,5 @@
+{
+  "functions": {
+    "api/contact.js": { "includeFiles": "{profile.js,images/photo.jpg}" }
+  }
+}
