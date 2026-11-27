@@ -5,8 +5,8 @@
    ========================================================== */
 const PROFILE = {
   defaultLang: "fr",                      // "fr" | "ar" | "en"
-  firstName: "Bassem",
-  lastName:  "Fguiri",
+  firstName: "Badiss",
+  lastName:  "Bouallegue",
   title: { fr: "Coach sportif · Musculation", ar: "مدرب رياضي · كمال أجسام", en: "Fitness coach · Bodybuilding" },
   company: "",
   bio: "",
